@@ -1,0 +1,18 @@
+requests
+pypi-json
+python-dotenv
+pyttsx3
+Flask
+PyAutoGUI
+pillow
+PyPDF2
+selenium
+DateTime
+googletrans
+psutil
+# deepface
+pathlib
+opencv-python
+youtube-transcript-api
+beautifulsoup4
+screen-brightness-control
